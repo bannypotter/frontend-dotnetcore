@@ -1,0 +1,3 @@
+[submodule "lib/nhsuk-frontend"]
+	path = lib/nhsuk-frontend
+	url = git@github.com:nhsuk/nhsuk-frontend.git
