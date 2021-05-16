@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\NHSUKFrontEndLibraryTagHelpers\NHSUK.FrontEndLibrary.TagHelpers\NHSUK.FrontEndLibrary.TagHelpers.csproj" />
+    <ProjectReference Include="..\..\src\NHSUK.FrontEndLibrary.TagHelpers\NHSUK.FrontEndLibrary.TagHelpers.csproj" />
   </ItemGroup>
 
 </Project>
